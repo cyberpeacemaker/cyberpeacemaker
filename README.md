@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **a47u0905@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://cyberpeacemaker.github.io/inf-resume/](https://cyberpeacemaker.github.io/inf-resume/)**
+- 👨‍💻 All of my projects are available at **[https://cyberpeacemaker.github.io/](https://cyberpeacemaker.github.io/inf-resume/)**
 
 - 📄 Know about my experiences **[https://cyberpeacemaker.github.io/inf-resume/](https://cyberpeacemaker.github.io/inf-resume/)**
 
