@@ -1,8 +1,12 @@
-# Hi 👋, I'm Amber
+# Hi 👋, I'm Jui-ting Chien
 
 ### Forensic | Reverse Engineering | Binary Exploitation
+**[👨‍💻 Pesonal Website](https://cyberpeacemaker.github.io/)** |  **[📄 Cybersecurity Resume](https://cyberpeacemaker.github.io/inf-resume/)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberpeacemaker" alt="cyberpeacemaker" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberpeacemaker" alt="cyberpeacemaker" /></a>  About me</p>
+
+
 
 - 🌱 I'm currently learning **Protocol Dissector and Reverse Engineering**
 
@@ -10,9 +14,6 @@
 
 - 📫 How to reach me **a47u0905@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://cyberpeacemaker.github.io/](https://cyberpeacemaker.github.io/)**
-
-- 📄 Know about my experiences **[https://cyberpeacemaker.github.io/inf-resume/](https://cyberpeacemaker.github.io/inf-resume/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
