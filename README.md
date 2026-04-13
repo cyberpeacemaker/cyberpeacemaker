@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jui-ting Chien
-
-### Forensic | Reverse Engineering | Binary Exploitation
+**Threat Hunter**
+![alt text](a-high-contrast--realistic-shot-focusing-on-the-hi.png)
 **[👨‍💻 Pesonal Website](https://cyberpeacemaker.github.io/)** |  **[📄 Cybersecurity Resume](https://cyberpeacemaker.github.io/inf-resume/)**
 
 
@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **a47u0905@gmail.com**
 
+# Specilized Fields
+### Forensic | Reverse Engineering | Binary Exploitation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
