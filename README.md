@@ -1,8 +1,8 @@
 # Hi 👋, I'm Jui-ting Chien
 **Threat Hunter**
-![alt text](a-high-contrast--realistic-shot-focusing-on-the-hi.png)
 **[👨‍💻 Pesonal Website](https://cyberpeacemaker.github.io/)** |  **[📄 Cybersecurity Resume](https://cyberpeacemaker.github.io/inf-resume/)**
 
+![alt text](change-the-human-imaginary-into--white-bright-glow.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberpeacemaker" alt="cyberpeacemaker" /></a>  About me</p>
 
