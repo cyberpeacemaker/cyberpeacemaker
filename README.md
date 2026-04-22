@@ -53,6 +53,8 @@ int main() {
 
 #
 
+![C](https://img.shields.io/badge/Focus-Linux_Kernel-blue?style=flat-square&logo=linux)
+![Exploit](https://img.shields.io/badge/Learning-Heap_Exploitation-red?style=flat-square)
 - 🌱 I'm currently learning **Protocol Dissector and Reverse Engineering**
 
 - 👯 I'm looking to collaborate on **APT Threat Hunting**
