@@ -7,14 +7,38 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberpeacemaker" alt="cyberpeacemaker" /></a>  About me</p>
 
 
+```c
+#include <stdio.h>
 
-- 🌱 I'm currently learning **Protocol Dissector and Reverse Engineering**
+void secret_function() {
+    printf("\n[!!!] BUFFER OVERFLOW DETECTED: Stack smashed successfully.\n");
+    printf("================= ACCESSING PROTECTED DATA =================\n");
+    printf(" HANDLE:   CyberPeaceMaker\n");
+    printf(" ROLE:     Security Researcher & Binary Analyst\n");
+    printf(" STACK:    Reverse Engineering | Forensics | Pwn\n");
+    printf(" TOOLS:    GDB, IDA Pro, Pwntools, Wireshark, Python\n");
+    printf("============================================================\n");
+}
 
-- 👯 I'm looking to collaborate on **APT Threat Hunting**
+void greet_visitor() {
+    char greeting[16];
+    printf("[*] Welcome, traveler. How would you like to greet me?\n");
+    printf("[>] (Max 16 chars): ");
+    
+    // The vulnerability: No bounds checking on input
+    gets(greeting); 
 
-- 📫 How to reach me **a47u0905@gmail.com**
+    printf("[+] You said: \"%s\"\n", greeting);
+    printf("[+] Status: Thanks for stopping by! Have a secure day. 🌱\n");
+}
 
-# Specilized Fields
+int main() {
+    greet_visitor();
+    return 0;
+}
+```
+
+# 0x01 // Current Directives
 
 ### **Digital Forensics**
 `[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
@@ -23,14 +47,19 @@
 ### **Reverse Engineering**
 `[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
 **●▬▬▬▬▬▬▬▬**○────────○─────○────○  
-▲
 ### **Binary Exploitation**
 `[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
 **●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
-### Digital Forensics
-[ FOUNDATIONAL ] ◦ Competent ◦ Advanced ◦ Expert
-●▬▬▬▬▬▬▬▬▬○────────○─────○────○
 
+#
+
+- 🌱 I'm currently learning **Protocol Dissector and Reverse Engineering**
+
+- 👯 I'm looking to collaborate on **APT Threat Hunting**
+
+- 📫 How to reach me **a47u0905@gmail.com**
+
+# Current Project Focus
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
