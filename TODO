@@ -5,6 +5,12 @@
   - static badge (shields.io)
   - GitHub Profile Trophy
   - private contribution [https://github.com/yoshi389111/github-profile-3d-contrib]
-  
+  - skill level | image
+```
+def handle_stress(self):
+        # 當找不到工作或心情低落時自動調用
+        self.state = "Low Power Mode (Resting)"
+        return "Watching Stranger Things... 🍿"
+```
 - person website
 - resume foucs cyber security

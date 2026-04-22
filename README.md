@@ -15,7 +15,22 @@
 - 📫 How to reach me **a47u0905@gmail.com**
 
 # Specilized Fields
-### Forensic | Reverse Engineering | Binary Exploitation
+
+### **Digital Forensics**
+`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
+**●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
+
+### **Reverse Engineering**
+`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
+**●▬▬▬▬▬▬▬▬**○────────○─────○────○  
+▲
+### **Binary Exploitation**
+`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
+**●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
+### Digital Forensics
+[ FOUNDATIONAL ] ◦ Competent ◦ Advanced ◦ Expert
+●▬▬▬▬▬▬▬▬▬○────────○─────○────○
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
