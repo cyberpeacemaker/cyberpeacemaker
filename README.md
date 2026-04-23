@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CyberPeaceMaker&fontAlignY=40&desc=%F0%9F%9B%A1%20Threat%20Hunter%20%7C%20%F0%9F%94%AC%20Digital%20Investigator&descAlignY=60&descSize=25&animation=fadeIn" />
 </p>
 
-
-<p align="center">
-  <img src="./asset/band.png" alt="Profile Header" width="500">
-</p>
-
 <div align="center">
 
 **[👨‍💻 Pesonal Website](https://cyberpeacemaker.github.io/)** 
@@ -15,6 +10,7 @@
 
 </div>
 
+# `0x00` // About Me
 ```c
 #include <stdio.h>
 
@@ -45,17 +41,17 @@ int main() {
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=600&pause=1200&multiline=true&width=780&height=140&lines=%24+gcc+-fno-stack-protector+-z+execstack+profile.c+-o+profile;%24+.%2Fprofile;%5B*%5D+Welcome%2C+traveler.+How+would+you+like+to+greet+me%3F;%5B%3F%5D+Send+a+request%3A+%22A%22+*+16+%2B+p64(0x4006d0);%5B!%5D+STACK+SMASHED!+Redirecting+to+secret_function())](https://git.io/typing-svg)
 
-# 0x01 // Current Directives
+# `0x01` // Current Directives
 
 ### **Digital Forensics**
-`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
+`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert  
 **●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
 
 ### **Reverse Engineering**
-`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
-**●▬▬▬▬▬▬▬▬**○────────○─────○────○  
+`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert  
+**●▬▬▬▬▬▬▬▬▬**○────────○─────○────○  
 ### **Binary Exploitation**
-`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert
+`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert  
 **●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
 
 # 0x02
