@@ -1,11 +1,19 @@
-# Hi 👋, I'm Jui-ting Chien
-**Threat Hunter**
-**[👨‍💻 Pesonal Website](https://cyberpeacemaker.github.io/)** |  **[📄 Cybersecurity Resume](https://cyberpeacemaker.github.io/inf-resume/)**
 
-![alt text](change-the-human-imaginary-into--white-bright-glow.png)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CyberPeaceMaker&fontAlignY=40&desc=%F0%9F%9B%A1%20Threat%20Hunter%20%7C%20%F0%9F%94%AC%20Digital%20Investigator&descAlignY=60&descSize=25&animation=fadeIn" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberpeacemaker" alt="cyberpeacemaker" /></a>  About me</p>
 
+<p align="center">
+  <img src="./asset/band.png" alt="Profile Header" width="500">
+</p>
+
+<div align="center">
+
+**[👨‍💻 Pesonal Website](https://cyberpeacemaker.github.io/)** 
+**[📄 Cybersecurity Resume](https://cyberpeacemaker.github.io/inf-resume/)**
+
+</div>
 
 ```c
 #include <stdio.h>
@@ -16,7 +24,7 @@ void secret_function() {
     printf(" HANDLE:   CyberPeaceMaker\n");
     printf(" ROLE:     Security Researcher & Binary Analyst\n");
     printf(" STACK:    Reverse Engineering | Forensics | Pwn\n");
-    printf(" TOOLS:    GDB, IDA Pro, Pwntools, Wireshark, Python\n");("============================================================\n");
+    printf(" TOOLS:    GDB, IDA Pro, Pwntools, Wireshark, Python\n");
   
 }
 
