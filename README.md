@@ -43,7 +43,7 @@ int main() {
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=680&pause=1140&multiline=true&width=780&height=180&lines=%24+gcc+-fno-stack-protector+-z+execstack+profile.c+-o+profile;%24+.%2Fprofile;%5B*%5D+Welcome%2C+traveler.+How+would+you+like+to+greet+me%3F;%5B%3F%5D+Send+a+request%3A+%22A%22+*+16+%2B+p64(0x4006d0);%5B!%5D+STACK+SMASHED!+Redirecting+to+secret_function();%5B!!!%5D+BUFFER+OVERFLOW+DETECTED%3A+SECRET+INFO+REVEAL+%E3%83%BE(%E2%89%A7%E2%96%BD%E2%89%A6*)o+!)](https://git.io/typing-svg)
 
-> 「異常存取企圖偵測！經完整之系統盤點與路徑追蹤，確認所有核心數據均受嚴密保護，未發現任何資訊外流之象限 o((>ω< ))o ！！」
+> 「異常存取企圖偵測！全面調查啟動...確認數據均受嚴密保護沒有外流 o((>ω< ))o ！！」
 
 # `0x01` // Current Directives
 
