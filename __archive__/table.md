@@ -5,7 +5,7 @@
 <td width="25%">one</td><td width="25%">one</td><td width="25%">one</td><td width="25%">one</td>
 </tr>
 <tr>
-<td width="25%">one</td><td width="25%">one</td><td width="25%">one</td><td width="25%">one</td>
+<td width="50%">one</td><td width="50%">one</td>
 </tr>
 </table>
 

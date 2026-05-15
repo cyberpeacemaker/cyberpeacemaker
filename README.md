@@ -41,47 +41,80 @@ int main() {
     return 0;
 }
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=680&pause=1140&multiline=true&width=780&height=180&lines=%24+gcc+-fno-stack-protector+-z+execstack+profile.c+-o+profile;%24+.%2Fprofile;%5B*%5D+Welcome%2C+traveler.+How+would+you+like+to+greet+me%3F;%5B%3F%5D+Send+a+request%3A+%22A%22+*+16+%2B+p64(0x4006d0);%5B!%5D+STACK+SMASHED!+Redirecting+to+secret_function();%5B!!!%5D+BUFFER+OVERFLOW+DETECTED%3A+SECRET+INFO+REVEAL+%E3%83%BE(%E2%89%A7%E2%96%BD%E2%89%A6*)o+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=680&pause=1140&multiline=true&width=780&height=160&lines=%24+gcc+-fno-stack-protector+-z+execstack+profile.c+-o+profile;%24+.%2Fprofile;%5B*%5D+Welcome%2C+traveler.+How+would+you+like+to+greet+me%3F;%5B%3F%5D+Send+a+request%3A+%22A%22+*+16+%2B+p64(0x4006d0);%5B!%5D+STACK+SMASHED!+Redirecting+to+secret_function();%5B!!!%5D+BUFFER+OVERFLOW+DETECTED%3A+SECRET+INFO+REVEAL+%E3%83%BE(%E2%89%A7%E2%96%BD%E2%89%A6*)o+!)](https://git.io/typing-svg)
 
-> 「異常存取企圖偵測！全面調查啟動...確認數據均受嚴密保護沒有外流 o((>ω< ))o ！！」
+<blockquote align="left">
+  <font color="#ff5555"><b>[!] ATTENTION:</b></font> 
+  <code>Anomalous access detected! Full scan in progress...</code><br>
+  <font color="#50fa7b"><b>[✓] VIRTUAL_SHIELD:</b></font> 
+  <i>Data secured. No exfiltration detected. Safe and sound o((>ω< ))o !!</i>
+</blockquote>
+<br>
 
 # `0x01` // Current Directives
 
-### **Digital Forensics**
-`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert  
-**●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
+<table width="100%">
+  <tr>
+    <td align="left">🔍 <b>Digital Forensics</b></td>
+    <td align="center">▰▰▰▱▱▱▱▱▱▱</td>
+    <td align="right"><b>Foundational</b></td>
+  </tr>
+  <tr>
+    <td align="left">🛠️ <b>Reverse Engineering</b></td>
+    <td align="center">▰▰▰▰▱▱▱▱▱▱</td>
+    <td align="right"><b>Competent</b></td>
+  </tr>
+  <tr>
+    <td align="left">💥 <b>Binary Exploitation</b></td>
+    <td align="center">▰▰▱▱▱▱▱▱▱▱</td>
+    <td align="right"><b>Foundational</b></td>
+  </tr>
+</table>
 
-### **Reverse Engineering**
-`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert  
-**●▬▬▬▬▬▬▬▬▬**○────────○─────○────○  
-### **Binary Exploitation**
-`[ FOUNDATIONAL ]` ◦ Competent ◦ Advanced ◦ Expert  
-**●▬▬▬▬▬▬▬▬▬**○────────○─────○────○
 
-# 0x02
-- Threat Hunting
-- Threat Intelligince
+# 0x02 Mission Parameters
 
-# 0x03
-![C](https://img.shields.io/badge/Focus-Linux_Kernel-blue?style=flat-square&logo=linux)
-![Exploit](https://img.shields.io/badge/Learning-Heap_Exploitation-red?style=flat-square)
-- 🌱 I'm currently learning **Protocol Dissector and Reverse Engineering**
+<table width="100%">
+  <!-- Terminal-style Header -->
+  <tr>
+    <td colspan="20" align="center" bgcolor="#0d1117">
+      <font color="#39ff14" face="monospace"><b>[ TERMINAL.GOAL_INIT ] - SHIELD THE INNOCENT // DISRUPT THE MALICIOUS</b></font>
+    </td>
+  </tr>
+  
+  <!-- Strategic Pillars -->
+  <tr>
+    <td colspan="5" align="center" width="25%"><b>OPERATIONAL<br>FOUNDATION</b></td>
+    <td colspan="5" align="center" width="25%"><b>THREAT<br>INTELLIGENCE</b></td>
+    <td colspan="5" align="center" width="25%"><b>CYBER CRIME<br>NEUTRALIZATION</b></td>
+    <td colspan="5" align="center" width="25%"><b>STRATEGIC<br>PEACEKEEPING</b></td>
+  </tr>
+  
+  <!-- Capability Tracks -->
+  <tr>
+    <td colspan="4" align="center" width="20%"><code>CERTIFICATIONS</code></td>
+    <td colspan="4" align="center" width="20%"><code>CTF_OPS</code></td>
+    <td colspan="4" align="center" width="20%"><code>R&D_PROJECTS</code></td>
+    <td colspan="4" align="center" width="20%"><code>INTEL_BRIEFS</code></td>
+    <td colspan="4" align="center" width="20%"><code>WHITEPAPERS</code></td>
+  </tr>
+</table>
 
-- 👯 I'm looking to collaborate on **APT Threat Hunting**
+## 2026
+- job
+- reverse enginner, packet analysis
 
-- 📫 How to reach me **a47u0905@gmail.com**
 
-# Current Project Focus
+#
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/cyberpeacemaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cyberpeacemaker" height="30" width="40" /></a>
-</p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberpeacemaker&" alt="cyberpeacemaker" /></p>
 
 ![alt text](profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberpeacemaker&" alt="cyberpeacemaker" /></p>
+# Connect With Me
 
+<p align="left">
+<a href="https://github.com/cyberpeacemaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cyberpeacemaker" height="30" width="40" /></a>
+</p>
