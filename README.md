@@ -49,11 +49,10 @@ int main() {
   <font color="#50fa7b"><b>[✓] VIRTUAL_SHIELD:</b></font> 
   <i>Data secured. No exfiltration detected. Safe and sound o((>ω< ))o !!</i>
 </blockquote>
-<br>
 
 # `0x01` // Current Directives
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="left">🔍 <b>Digital Forensics</b></td>
     <td align="center">▰▰▰▱▱▱▱▱▱▱</td>
@@ -72,9 +71,9 @@ int main() {
 </table>
 
 
-# 0x02 Mission Parameters
+# `0x02` // Mission Parameters
 
-<table width="100%">
+<table width="100%" align="center">
   <!-- Terminal-style Header -->
   <tr>
     <td colspan="20" align="center" bgcolor="#0d1117">
@@ -107,7 +106,6 @@ int main() {
 
 #
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberpeacemaker&" alt="cyberpeacemaker" /></p>
 
 ![alt text](profile-3d-contrib/profile-night-rainbow.svg)
 

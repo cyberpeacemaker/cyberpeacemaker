@@ -19,6 +19,23 @@ def handle_stress(self):
 
 ---
 
+## 🛡️ Cybersecurity Roadmap
+
+### 🏆 Level 03: Advanced Specialization
+| Red Team (Offense) | Blue Team (Defense) |
+| :---: | :---: |
+| <a href="src/certification/eccouncil/ECC-CEH-Certificate.pdf"><img src="src/certification/eccouncil/ceh-badge.png" width="100" alt="CEH"></a> | <a href="src/certification/eccouncil/ECC-CND-Certificate.pdf"><img src="src/certification/eccouncil/cnd-badge.png" width="100" alt="CND"></a> |
+| **EC-Council CEH** | **EC-Council CND** |
+| `2026-04-01` | `2026-06-01` |
+
+<br>
+
+### 🎖️ Level 02: DoD 8570 Standard
+| Certification | Details |
+| :--- | :--- |
+| <a href="https://www.credly.com/badges/c4af8a3c-3228-4592-a700-c9e5cc5ffc2b/public_url"><img src="src/certification/comptia/comptia-security-ce-certification.png" width="100" alt="Security+"></a> | **CompTIA Security+ ce** <br> *Issued:* `2026-01-24` |
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberpeacemaker&" alt="cyberpeacemaker" /></p>
 
 # 0x02
 - Threat Hunting
